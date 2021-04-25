@@ -1,0 +1,9 @@
+.menu__link {
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.menu__link:hover {
+  opacity: 0.6;
+}
